@@ -18,7 +18,7 @@ My goal is to improve my skills through real projects and keep learning every da
 </td>
 <td width="50%">
 
-<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="350">
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="350">
 
 </td>
 </tr>
