@@ -13,7 +13,7 @@ My goal is to improve my skills through real projects and keep learning every da
 - 🌱 I’m currently learning **Python, Java, GitHub**
 - 💻 I’m working on personal projects
 - 🤖 Interested in **AI, Web Development, and Software Engineering**
-- 📫 How to reach me: **hongtrieupham303@gmail.com**
+- 📫 How to reach me: **hongtrieu2201@gmail.com**
 
 </td>
 <td width="50%">
