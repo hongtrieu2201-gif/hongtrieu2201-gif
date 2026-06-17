@@ -14,6 +14,16 @@ My goal is to improve my skills through real projects and keep learning every da
 - 💻 I’m working on personal projects
 - 🤖 Interested in **AI, Web Development, and Software Engineering**
 - 📫 How to reach me: **hongtrieu2201@gmail.com**
+- ## 🌐 Connect with me
+
+<a href="https://facebook.com/trieuvotris1tg">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
+</a>
+
+<a href="https://www.tiktok.com/@_p.tzrieu._2201">
+  <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white">
+</a>
+
 
 </td>
 <td width="50%">
